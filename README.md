@@ -1,47 +1,44 @@
-<div align="center">
+# Mohammed Karroumi
 
-# Hi, I'm Mohammed Karroumi 👋
+**Systems & Network Programming | Linux | Infrastructure**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Systems+%26+Network+Programming;Building+an+HTTP%2F1.1+Reactor+Server+from+Scratch;Linux+%26+Cloud+Infrastructure" alt="Typing SVG" />
+Interested in low-level programming, networking, and building things from scratch.
 
 [LinkedIn](https://www.linkedin.com/in/mohammed-karroumi-49272b40a/) · [Email](mailto:mohammedkarroumi2007@gmail.com)
 
-</div>
-
 ---
 
-### 🔭 Featured Project
+### Featured Project
 
-**[Reactor Server](https://github.com/MohammedKarroumi/Reactor-Server)**  
-A single-threaded, non-blocking HTTP/1.1 server built from scratch in pure Python using `socket` and `selectors`.
+**[Reactor Server](https://github.com/MohammedKarroumi/Reactor-Server)**
 
-* Event-driven I/O architecture handling multiple concurrent connections without threads or frameworks.
-* HTTP/1.1 message framing, including `Transfer-Encoding: chunked`.
-* Persistent connections with `keep-alive` support.
-* Path-traversal protection and request validation.
-* Stress-tested with 5,000+ requests.
-* Currently implementing WebSocket handshake and binary frame parsing.
+A lightweight HTTP/1.1 server built from scratch in Python.
 
-### 🌱 Currently Exploring
+- Handles multiple connections without threads.
+- Supports persistent connections and chunked requests.
+- Tested with 5,000+ requests.
+- WebSocket support in development.
 
-* **Networking:** Raw TCP/UDP sockets, network internals, and custom binary protocols.
-* **Systems Programming:** Event-driven concurrency, low-level data structures, and C.
-* **Infrastructure:** Self-hosted services on Oracle Cloud Infrastructure (OCI), Ubuntu VMs, and Void Linux.
-* **Deployment & Security:** Nginx reverse proxying, SSL/TLS, firewall configuration, and Linux hardening.
+### Currently Exploring
 
-### 🛠️ Tech Stack
+- Network programming and protocols.
+- Systems programming with C.
+- Linux and cloud infrastructure.
+- Server deployment and security.
+
+### Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,php,js,bash,linux,docker,nginx,git,godot" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=py,c,php,bash,linux,docker,nginx,git" alt="Technologies" />
 </p>
 
-### 🎨 Creative Tools
+### Creative Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=ps,ae,pr,figma" alt="Creative tools" />
 </p>
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=MohammedKarroumi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
